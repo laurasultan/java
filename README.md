@@ -8,3 +8,9 @@
 
 <b> Visual Studio Code </b>
 * Extension Pack for Java
+
+<!--
+
+https://astah.net/pricing/academic/
+
+-->
