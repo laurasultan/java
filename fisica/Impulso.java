@@ -11,6 +11,6 @@ public class Impulso{
         
         i = f * Δt;
         
-        System.out.printf("F = %f%n", i);
+        System.out.printf("I = %f%n", i);
     }
 }
