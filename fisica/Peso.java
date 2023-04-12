@@ -4,13 +4,12 @@ public class Peso{
         Scanner teclado = new Scanner(System.in);
         double p, m, g;
         System.out.println("Digite a massa:\t");
-        m = teclado.nextFloat();
+        m = teclado.nextDouble();
         
         g = 9.8;
         
         p = m * g;
         
-        // System.out.printf("P = %", p);
         System.out.printf("P = %f%n", p);
     }
 }
