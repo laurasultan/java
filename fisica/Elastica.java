@@ -13,6 +13,6 @@ public class Elastica{
         
         f = k * x;
         
-        System.out.printf("F = %f%n", f);
+        System.out.printf("E = %f%n", f);
     }
 }
