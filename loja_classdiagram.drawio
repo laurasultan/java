@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T12:38:48.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="XuHyVoRweQcCgCQ4OfHV" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:39:11.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="49qLnZkDvYseXh5FjKgJ" version="21.1.7" type="github">
   <diagram name="Página-1" id="qkjWLM_mK85PG98u6XiB">
-    <mxGraphModel dx="733" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="q3iH9pSLBPDBaZm93Gra-13" value="- dataDaVenda: LocalDate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="q3iH9pSLBPDBaZm93Gra-9" vertex="1">
           <mxGeometry y="52" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q3iH9pSLBPDBaZm93Gra-14" value="- cliente: Cliente" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="q3iH9pSLBPDBaZm93Gra-9" vertex="1">
+        <mxCell id="q3iH9pSLBPDBaZm93Gra-14" value="- cliente: Pessoa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="q3iH9pSLBPDBaZm93Gra-9" vertex="1">
           <mxGeometry y="78" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="q3iH9pSLBPDBaZm93Gra-31" value="- vendedor: Vendedor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="q3iH9pSLBPDBaZm93Gra-9" vertex="1">
