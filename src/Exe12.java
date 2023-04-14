@@ -9,7 +9,7 @@ public class Exe12 {
         x = teclado.nextFloat();
 
         // Processamento
-        y = (x * x * x) - (2 * 2) + (3 * x);
+        y = (x * x * x) - (2 * x) + (3 * x);
 
         // Saída
         System.out.printf("y = %.2f", y);
