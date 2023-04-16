@@ -84,7 +84,7 @@ public class Finitas {
 // Quando já se efetivou uma pesquisa e se deseja conhecer a margem de erro da amostra utilizada
     
 import java.util.Scanner;
-public class Finitas {
+public class Margem {
     public static void main(String[] args) throws Exception {
         double x, σp, p, q, n;
         Scanner scanner = new Scanner(System.in);
