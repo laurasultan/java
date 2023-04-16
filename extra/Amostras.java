@@ -1,4 +1,4 @@
-// Cálculo do tamanho da amostra
+// CÁLCULO DO TAMANHO DA AMOSTRA
 // Populações INFINITAS (> 100 000 habitantes)
 
 import java.util.Scanner;
@@ -43,7 +43,7 @@ public class Infinitas {
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
     
-// Cálculo do tamanho da amostra
+// CÁLCULO DO TAMANHO DA AMOSTRA
 // Populações FINITAS (< 100 000 habitantes)
     
 import java.util.Scanner;
@@ -80,7 +80,7 @@ public class Finitas {
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
    
-// Determinação da margem de erro da amostra
+// DETERMINAÇÃO DA MARGEM DE ERRO DA AMOSTRA
 // Quando já se efetivou uma pesquisa e se deseja conhecer a margem de erro da amostra utilizada
     
 import java.util.Scanner;
