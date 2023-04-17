@@ -86,7 +86,7 @@ public class Finitas {
 import java.util.Scanner;
 public class Margem {
     public static void main(String[] args) throws Exception {
-        double x, σp, p, q, n;
+        double σp, p, q, n, x, y, z;
         Scanner scanner = new Scanner(System.in);
         
         // Se o número se situa por volta de 30% então p = 30
@@ -105,7 +105,13 @@ public class Margem {
         
         x = Math.sqrt(σp);
         
-        System.out.printf("Erro padrão ou desvio = %.2f", x);
+        System.out.printf("Erro padrão ou desvio = %.2f\n", x);
+        
+        y = p + x;
+        z = p - x;
+        
+        System.out.printf("Margem máxima = %.2f\n", y);
+        System.out.printf("Margem mínima = %.2f\n", z);
     }
 }
 
