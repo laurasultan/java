@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T20:03:25.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="reJK7FBPj3A25a2qQ_2j" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T20:05:53.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MTa_tIqzL7qQjbZDdtvG" version="21.1.9" type="github">
   <diagram name="Página-1" id="Oay3tAvh17hiwOw5oQ67">
     <mxGraphModel dx="662" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="cphsTk5UNhaAy1RKEiX2-64" value="+ Register(name: String, username: String, password: String): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-8" vertex="1">
           <mxGeometry y="142" width="400" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cphsTk5UNhaAy1RKEiX2-43" value="+ Logout(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-8" vertex="1">
+        <mxCell id="cphsTk5UNhaAy1RKEiX2-43" value="+ Logout(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-8" vertex="1">
           <mxGeometry y="168" width="400" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cphsTk5UNhaAy1RKEiX2-17" value="+ getName(): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-8" vertex="1">
