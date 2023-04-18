@@ -9,6 +9,7 @@
 
 <b> Visual Studio Code </b>
 * Extension Pack for Java
+* Java Code Generators
 
 <!--
 
