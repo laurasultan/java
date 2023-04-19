@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T00:40:03.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jSHkl0Z-kBkGsVxZCZDI" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T00:50:08.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-Es_nQZLuZiWP-7FyLVY" version="21.1.9" type="github">
   <diagram name="Página-1" id="Oay3tAvh17hiwOw5oQ67">
     <mxGraphModel dx="662" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="cphsTk5UNhaAy1RKEiX2-44" value="&lt;div&gt;+ Add(name: String, code: int, house: String, affiliation: String): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-2" vertex="1">
           <mxGeometry y="142" width="420" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cphsTk5UNhaAy1RKEiX2-45" value="&lt;div&gt;+ Display(): boolean&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-2" vertex="1">
+        <mxCell id="cphsTk5UNhaAy1RKEiX2-45" value="&lt;div&gt;+ Display(name: String, house: String, affiliation: String): boolean&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-2" vertex="1">
           <mxGeometry y="168" width="420" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cphsTk5UNhaAy1RKEiX2-46" value="&lt;div&gt;+ Update(name: String, house: String, affiliation: String): boolean&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-2" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="cphsTk5UNhaAy1RKEiX2-55" value="&lt;div&gt;+ Add(name: String, code: int, animal: String, color: String, values: String): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-26" vertex="1">
           <mxGeometry y="164" width="470" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cphsTk5UNhaAy1RKEiX2-56" value="&lt;div&gt;+ Display(): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-26" vertex="1">
+        <mxCell id="cphsTk5UNhaAy1RKEiX2-56" value="&lt;div&gt;+ Display(name: String, animal: String, color: String, values: String): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-26" vertex="1">
           <mxGeometry y="190" width="470" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cphsTk5UNhaAy1RKEiX2-57" value="&lt;div&gt;+ Update(name: String, code: int, animal: String, color: String, values: String): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-26" vertex="1">
@@ -124,7 +124,7 @@
         <mxCell id="cphsTk5UNhaAy1RKEiX2-60" value="&lt;div&gt;+ Add(name: String, code: int): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-35" vertex="1">
           <mxGeometry y="86" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cphsTk5UNhaAy1RKEiX2-61" value="&lt;div&gt;+ Display(): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-35" vertex="1">
+        <mxCell id="cphsTk5UNhaAy1RKEiX2-61" value="&lt;div&gt;+ Display(name: String): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-35" vertex="1">
           <mxGeometry y="112" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cphsTk5UNhaAy1RKEiX2-62" value="&lt;div&gt;+ Update(name: String): boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="cphsTk5UNhaAy1RKEiX2-35" vertex="1">
