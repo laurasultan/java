@@ -1,0 +1,185 @@
+ACCOUNT
+
+— name
+— username
+— password
+
+---------------------------------------------------------------------------------------------------------
+
+HOUSE
+
+— Slytherin
+	- serpent
+	- green and silver
+	- cunning, ambition, resourcefulness, determination, pride, self-preservation, shrewdness
+
+— Ravenclaw
+	- eagle
+	- blue and bronze
+	- wit, learning, wisdom, acceptance, intelligence, creativity
+
+— Hufflepuff
+	- badger
+	- yellow and black
+	- loalty, just, hard-working, patience, fairness, modesty
+
+— Gryffindor
+	- lion
+	- scarlet and gold
+	- daring, nerve, chivalry, courage, bravery, determination
+
+---------------------------------------------------------------------------------------------------------
+
+AFFILIATIONS
+
+— Death Eaters
+— Dumbledore's Army (D.A.)
+— Order of the Phoenix
+— Hogwarts Faculty
+— The Ministry
+— Slug Club
+— Order of Merlin
+— The Marauders
+
+---------------------------------------------------------------------------------------------------------
+
+CHARACTERS
+
+— Hogwarts Faculty
+	- Albus Dumbledore (Transfiguration)
+	- Severus Snape (Potions / DADA)
+	- Minerva McGonagall (Transfiguration)
+	- Pomona Sprout (Herbology)
+	- Filius Flitwick (Charms)
+	- Rubeus Hagrid (Care of Magical Creatures / Grounds Keeper)
+	- Alastor "Mad-Eye" Moody (DADA)
+	- Alecto Carrow (Muggle Studies)
+	- Amycus Carrow (DADA)
+	- Argus Filch (Caretaker)
+	- Aurora Sinistra (Astronomy)
+	- Bathsheda Babbling (Ancient Runes)
+	- Charity Burbage (Muggle Studies)
+	- Cuthbert Binns (History of Magic)
+	- Dolores Umbridge (DADA)
+	- Firenze (Divination)
+	- Gilderoy Lockhart (DADA)
+	- Horace Slughorn (Potions)
+	- Irma Pince (Librarian)
+	- Poppy Pomfrey (Matron)
+	- Quirinus Quirrell (DADA)
+	- Remus Lupin (DADA)
+	- Rolanda Hooch (Flying)
+	- Septima Vector (Arithmancy)
+	- Silvanus Kettleburn (Care of Magical Creatures)
+	- Sybill Trelawney (Divination)
+	- Wilhelmina Grubby-Plank (Care of Magical Creatures)
+
+	- Salazar Slytherin
+	- Rowena Ravenclaw
+	- Helga Hufflepuff
+	- Godric Gryffindor
+
+— Hogwarts Students
+	- Harry Potter
+	- Hermione Granger
+	- Ronald Weasley
+	- Ginny Weasley
+	- Percy Weasley
+	- Fred Weasley
+	- George Weasley
+	- Neville Longbottom
+	- Oliver Wood
+	- Katie Bell
+	- Cormac McLaggen
+	- Lavender Brown
+	- Seamus Finnigan
+	- Dean Thomas
+	- Angelina Johnson
+	- Lee Jordan
+	- Alicia Spinnet
+	- Parvati Patil
+	- Romilda Vane
+	- Colin Creevey
+	- Denis Creevey
+
+	- Draco Malfoy
+	- Marcus Flint
+	- Adrian Pucey
+	- Pansy Parkinson
+	- Blaise Zabini
+	- Theodore Nott
+	- Vincent Crabbe
+	- Gregory Goyle
+	- Millicent Bulstrode
+	- Daphne Greengrass
+	- Astoria Greengrass
+
+	- Cedric Diggory
+	- Ernie Macmillan
+	- Hannah Abbott
+	- Justin Finch-Fletchly
+	- Susan Bones
+	- Zacharias Smith
+
+	- Luna Lovegood
+	- Cho Chang
+	- Marietta Edgecombe
+	- Terry Boot
+	- Anthony Goldstein
+	- Padma Patil
+
+— Family Members
+	- Lucius Malfoy
+	- Narcissa Malfoy --- Black
+	- Bellatrix Lestrange --- Black
+	- Rodolphus Lestrange
+	- Andromeda Tonks --- Black
+	- Ted Tonks
+	- Nymphadroa Tonks
+	- Teddy Lupin
+
+	- Molly Weasley --- Prewett
+	- Arthur Weasley
+	- Bill Weasley
+	- Charlie Weasley
+	- Fleur Delacour
+	- Gabrielle Delacour
+	- Victoire Weasley
+	- Xenophilius Lovegood
+	- Frank Longbottom
+	- Alice Longbottom
+	- Amos Diggory
+
+	- Regulus Black
+	- Sirius Black
+	- Peter Pettigrew
+	- James Potter
+	- Lily Potter --- Evans
+	- Petunia Dursley --- Evans
+	- Vernom Dursley
+	- Dudley Dursley
+	- Eileen Snape --- Prince
+
+	- Tom Riddle --- Lord Voldemort
+	- Barty Crouch Jr.
+	- Antonin Dolohov
+	- Augustus Rookwood
+	- Avery Jr.
+	- Corban Yaxley
+	- Evan Rosier
+	- Fenrir Greyback
+	- Igor Karkaroff
+	- Mulciber
+	- Rabastan Lestrange
+	- Selwyn
+	- Thorfinn Rowle
+	- Walden Macnair
+
+	- Cornelius Fudge
+	- Rufus Scrimgeour
+	- Pius Thicknesse
+	- Kingsley Shacklebolt
+	- Mundungus Fletcher
+	- Kreacher
+	- Dobby
+	- Winky
