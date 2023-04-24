@@ -181,6 +181,7 @@ CHARACTERS
 	- Pius Thicknesse
 	- Kingsley Shacklebolt
 	- Mundungus Fletcher
+	- Viktor Krum
 	- Kreacher
 	- Dobby
 	- Winky
