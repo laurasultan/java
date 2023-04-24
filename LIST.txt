@@ -128,7 +128,7 @@ CHARACTERS
 	- Anthony Goldstein
 	- Padma Patil
 
-— Family Members
+— Family Members and Others
 	- Lucius Malfoy
 	- Narcissa Malfoy --- Black
 	- Bellatrix Lestrange --- Black
@@ -159,6 +159,7 @@ CHARACTERS
 	- Vernom Dursley
 	- Dudley Dursley
 	- Eileen Snape --- Prince
+	- Tobias Snape
 
 	- Tom Riddle --- Lord Voldemort
 	- Barty Crouch Jr.
