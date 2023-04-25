@@ -14,7 +14,7 @@ public class Funcionario {
     }
 
     private float calcularDescontoIR(float salario) {
-        return salario * 0.75f;
+        return salario * 0.075f;
     }
 
     public float calcularSalarioLiquido(short numeroDeHorasTrabalhadas) {
