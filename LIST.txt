@@ -156,7 +156,7 @@ CHARACTERS
 	- James Potter
 	- Lily Potter --- Evans
 	- Petunia Dursley --- Evans
-	- Vernom Dursley
+	- Vernon Dursley
 	- Dudley Dursley
 	- Eileen Snape --- Prince
 	- Tobias Snape
