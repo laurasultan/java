@@ -12,9 +12,9 @@ public class Jogo {
         System.out.println("Digite um número (jogador 2):\t");
         j2 = scanner.nextInt();
         
-        if (v == 0 && (j1 + j2) % 2 != 0) {
-            System.out.println("Jogador 2 venceu");
-        } else if (v == 1 && (j1 + j2) % 2 == 0) {
+        if (v == 0 && (j1 + j2) % 2 == 0) {
+            System.out.println("Jogador 1 venceu");
+        } else if (v == 1 && (j1 + j2) % 2 != 0) {
             System.out.println("Jogador 1 venceu");
         } else {
             System.out.println("Jogador 2 venceu");
