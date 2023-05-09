@@ -17,6 +17,7 @@
   * Maven, Java, 3.0.6 (17), 2.7.11 (11) - (br.com.nome, intro_spring, Jar, 11)
   * Versão: Windows + R, cmd, java --version
   * Dependencies: Spring Boot DevTools (Developer Tools), Spring Web (Web)
+  * Spring Boot Extension Pack (VSCode) > intro_spring > localhost8080
 
 <!--
 
