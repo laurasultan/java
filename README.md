@@ -24,6 +24,4 @@ https://astah.net/pricing/academic/
 
 https://www.4devs.com.br/
 
-https://github.com/vaibhavtomar04/portfolio
-
 -->
