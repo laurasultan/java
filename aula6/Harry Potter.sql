@@ -16,16 +16,17 @@ create table if not exists houses(
 );
 
 create table if not exists affiliations(
-	code int primary key,
-    name varchar(50) not null
+	code int not null,
+    name varchar(50) not null,
+    code_affiliation int not null,
+    constraint pk_affiliations primary key (code, code_affiliation),
+    constraint fk_character_affiliation foreign key (code_character) references characters(code)
 );
 
 create table if not exists characters(
 	code int not null,
     name varchar(50) not null,
-    code_house varchar(10) not null,
-    code_affiliation varchar(50) not null,
-    constraint pk_characters primary key (code_house, code_affiliation),
-    constraint fk_house_character foreign key (code_house) references houses(code),
-    constraint fk_affiliation_character foreign key (code_affiliation) references affiliations(code)
+    code_house int not null,
+    constraint pk_characters primary key (code, code_house),
+    constraint fk_character_house foreign key (code_house) references houses(code)
 );
