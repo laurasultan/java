@@ -19,6 +19,7 @@
   * Dependencies: Spring Boot DevTools (Developer Tools), Spring Web (Web)
   * Spring Boot Extension Pack (VSCode)
 * Insomnia <a href="https://insomnia.rest/download"> Download </a>
+* Spring Data <a href="https://fishy-ostrich-493.notion.site/Aula-24-Spring-Data-JPA-9741df27e29d41808fa117fee83ab1ce"> JPA </a>
 
 <!--
 
