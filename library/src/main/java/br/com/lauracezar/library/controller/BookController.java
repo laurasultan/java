@@ -37,7 +37,7 @@ public class BookController {
             return new ResponseEntity<>(iae.getMessage(), HttpStatus.BAD_REQUEST);
         } catch (Exception e) {
             // Gerar um log com as informações do problema
-            return new ResponseEntity<>("Lamento, house um erro inesperado em nossa aplicação.", HttpStatus.INTERNAL_SERVER_ERROR);
+            return new ResponseEntity<>("Lamento, houve um erro inesperado em nossa aplicação.", HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
 
